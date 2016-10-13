@@ -1,1 +1,2 @@
 This is A function
+diff + this is fixing a function.this is b function
